@@ -1,4 +1,4 @@
-package hoon.servlet.basic;
+package hoon.servlet.basic.request;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
