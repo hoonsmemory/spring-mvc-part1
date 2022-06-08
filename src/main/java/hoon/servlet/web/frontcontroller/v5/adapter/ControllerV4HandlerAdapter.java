@@ -1,7 +1,8 @@
-package hoon.servlet.web.frontcontroller.v5;
+package hoon.servlet.web.frontcontroller.v5.adapter;
 
 import hoon.servlet.web.frontcontroller.ModelView;
 import hoon.servlet.web.frontcontroller.v4.ControllerV4;
+import hoon.servlet.web.frontcontroller.v5.MyHandlerAdapter;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
